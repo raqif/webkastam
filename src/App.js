@@ -6,16 +6,17 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">
-<<<<<<< HEAD
-          Persatuan Pegawai Kastam Marin Malaysia dd uiqwyeiqwyeqwueyqwieuywqieyu
-=======
-          Persatuan Pegawai Kastam Marin Malaysia dd raqif
->>>>>>> 1d3afc096aac167db954ee5aff0efd3190ddc5fe
-          </h1>
-        </header>
+
+      <div className="App-header">
+        <div className="App-body">
+        <img src={logo} className="App-logo" alt="logo" />
+        <div className="col">
+        <h1 className="title">Persatuan Pegawai Kastam Marin Malaysia</h1>
+        <p className="title">Berai roboh</p>
+        </div>
+        </div>
+      </div>
+
 
         <nav className="App-nav">
           <ul>
@@ -55,9 +56,15 @@ class App extends Component {
           </p>
         </div>
 
+
+
         <footer className="App-footer">
         copyright 2018
         </footer>
+
+
+
+
       </div>
     );
   }
