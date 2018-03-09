@@ -10,7 +10,20 @@ class App extends Component {
     return (
       <div className="App">
 
+<<<<<<< HEAD
         <Header />
+=======
+      <div className="App-header">
+        <div className="App-body">
+        <img src={logo} className="App-logo" alt="logo" />
+        <div className="col">
+        <h1 className="title">Persatuan Pegawai Kastam Marin Malaysia</h1>
+        <p className="title">Berai roboh</p>
+        </div>
+        </div>
+      </div>
+
+>>>>>>> 21a2f44b9ce64c5f0f09b696943d52bd0ebadc72
 
         <nav className="App-nav">
           <ul>
@@ -50,9 +63,15 @@ class App extends Component {
           </p>
         </div>
 
+
+
         <footer className="App-footer">
         copyright 2018
         </footer>
+
+
+
+
       </div>
     );
   }
