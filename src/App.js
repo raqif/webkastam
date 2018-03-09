@@ -2,16 +2,15 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+//components
+import Header from './components/header/header'
+
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">
-          Persatuan Pegawai Kastam Marin Malaysia dd raqif
-          </h1>
-        </header>
+
+        <Header />
 
         <nav className="App-nav">
           <ul>

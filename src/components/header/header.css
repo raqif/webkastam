@@ -1,0 +1,11 @@
+header.App-header {
+  display: flex;
+  flex-direction: row;
+  color: red;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  color: black;
+}
