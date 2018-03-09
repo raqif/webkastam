@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">
-          Persatuan Pegawai Kastam Marin Malaysia
+          Persatuan Pegawai Kastam Marin Malaysia dd
           </h1>
         </header>
 
@@ -29,7 +29,7 @@ class App extends Component {
             </li>
             <li>
               <a href="#">Contact Us</a>
-            </li>          
+            </li>
           </ul>
         </nav>
 
