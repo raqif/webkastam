@@ -9,7 +9,11 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">
+<<<<<<< HEAD
           Persatuan Pegawai Kastam Marin Malaysia dd uiqwyeiqwyeqwueyqwieuywqieyu
+=======
+          Persatuan Pegawai Kastam Marin Malaysia dd raqif
+>>>>>>> 1d3afc096aac167db954ee5aff0efd3190ddc5fe
           </h1>
         </header>
 
