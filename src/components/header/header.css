@@ -2,10 +2,22 @@ header.App-header {
   display: flex;
   flex-direction: row;
   color: red;
+  padding-top: 8px;
+  width: 90%;
+  justify-content: center;
 }
 
 .col {
   display: flex;
   flex-direction: column;
-  color: black;
+  color: blue;
+}
+
+.title {
+  margin: 0px;
+}
+
+.slogan {
+  color: yellow;
+  margin: 0px;
 }

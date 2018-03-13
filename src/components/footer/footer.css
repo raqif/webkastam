@@ -1,0 +1,9 @@
+.App-footer{
+  display: flex;
+  order: 9;
+  background-color: white;
+  border: 1px blue solid;
+  color: black;
+  padding-left: 0;
+  justify-content: center;
+}

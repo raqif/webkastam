@@ -1,0 +1,19 @@
+.App-nav {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  background-color: black;
+  padding: 8px;
+  justify-content:center;
+}
+
+ul.Nav {
+  display: flex;
+  flex-direction: row;
+  margin: 0px;
+}
+
+li{
+  background: white;
+  flex-wrap: wrap;
+}

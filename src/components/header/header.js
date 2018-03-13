@@ -11,9 +11,9 @@ class Header extends Component {
             <h1 className='title'>
                Persatuan Pegawai Kastam Marin Malaysia
               </h1>
-            <p className='slogan'>
-              bersatu kita teguh
-            </p>
+            <h2 className='slogan'>
+              bersatu kita teguh, bercerai kita roboh
+            </h2>
           </div>
         </header>
       );
